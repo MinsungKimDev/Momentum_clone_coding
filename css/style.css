@@ -37,6 +37,18 @@ main{
     margin-bottom: 0px;
 }
 
+ul{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    color: white;
+    font-size: 35px;
+    font-family: 'Cafe24Ssurround';
+}
+
 footer{
     margin-top: 20px;
     height: 100px;
